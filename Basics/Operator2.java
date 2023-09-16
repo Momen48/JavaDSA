@@ -5,7 +5,7 @@ public class Operator2 {
         if(x>y && y>z){
             System.out.println("HELLO!");
         }
-        if(z>y && z<x){
+        if(z>y || z<x){
             System.out.println("Yap!");
         }
         if (y+200<x && y+100<z) {
