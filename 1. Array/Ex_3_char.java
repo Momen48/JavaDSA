@@ -1,0 +1,9 @@
+public class Ex_3_char {
+    public static void main(String[] args) {
+        char ch1, ch2;
+        ch1 = 88; //code for X, ASCII code 
+        ch2 = 'Y';
+        System.out.print("Char 1 and Char 2 = ");
+        System.out.println(ch1 + " , "+ ch2);
+    }
+}
