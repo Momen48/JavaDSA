@@ -11,7 +11,7 @@ public class String_comparison {
             System.out.println("not fuainna");
         }
 
-        if (s1==s3){
+        if (s1.equals(s3)){
             System.out.println("new String er shoman");
         }
         else{
